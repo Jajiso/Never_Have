@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="statments">
+        <item>Been in love with a fictional character</item>
+        <item>Got inspired to exercise because I saw a show of cute anime girls exercising</item>
+        <item>Considered the best strategy during a Zombie Apocalypse is to hunker down in my house</item>
+        <item>Cried in the cinema</item>
+        <item>Cried in a convention</item>
+        <item>Cried because my costume didn\’t fit me anymore</item>
+        <item>Got angry because someone had the same cosplay as me</item>
+        <item>Wanted to wear costumes instead of regular clothing on a daily basis</item>
+        <item>Preferred to stay home playing video games instead of going out with my friends</item>
+        <item>Got drunk in a convention</item>
+        <item>Made a scene in a convention</item>
+        <item>Made a scene in the bookstore</item>
+        <item>Stolen a comic book</item>
+        <item>Performed at a convention</item>
+        <item>Thought people who watch Anime are perverts</item>
+        <item>Got mad because I lost at a board game</item>
+        <item>Stopped talking to someone because they didn\’t like a tv show or a movie</item>
+        <item>Drawn a superhero version of myself</item>
+        <item>Thought children\'s cartoons are better entertainment that adult shows</item>
+        <item>Dressed as a character of the opposite sex</item>
+        <item>Sung in Japanese</item>
+        <item>Sung video games songs at a party</item>
+        <item>Secretly wished I were a wizard</item>
+        <item>Had a nightmare about zombies</item>
+        <item>Been scared of clowns</item>
+        <item>Thought a cartoon character was hot</item>
+        <item>Pretended I was running from zombies while on a run</item>
+        <item>Thought about what kind of superpower I would have</item>
+        <item>Thought a movie was better than the book</item>
+        <item>Sung a song out loud in Japanese even though I don\’t speak the language</item>
+        <item>Attempted martial arts moves while being by myself</item>
+        <item>Accidentally pooped my pants in a convention</item>
+        <item>Bought a children\'s toy for myself</item>
+        <item>Spent hundreds on a collectible item</item>
+        <item>Practiced lines of a movie in the mirror</item>
+        <item>Tried to impress a crush by seeming knowledgeable about Anime</item>
+        <item>Worn cartoon-themed underwear</item>
+        <item>Worn superhero-themed underwear</item>
+        <item>Watched Hentai</item>
+        <item>Tried to convince someone the reason I watch a Hentai is because it has an interesting plot</item>
+        <item>Attempted to make a recipe from a show</item>
+        <item>Been arrested in a convention</item>
+        <item>Used a fake ID to gain entry to a convention</item>
+        <item>Snuck out of the house to go to a convention</item>
+        <item>Tried to explain my cosplay to my family</item>
+        <item>Felt ashamed of being a geek</item>
+        <item>Abandoned my children to go to a convention</item>
+        <item>Broken into a convention</item>
+        <item>Purchased merchandise online while drunk</item>
+        <item>Had a date with someone I met in a video game</item>
+        <item>Made out in a convention</item>
+        <item>Made out with someone just because I liked their cosplay</item>
+        <item>Asked my partner to role-play as a character from a movie or tv show</item>
+        <item>Tried a pick-up line from a movie</item>
+        <item>Had a sexy dream about a fictional character</item>
+        <item>Pretended to like Horror movies</item>
+        <item>Taken sexy pictures in cosplay</item>
+        <item>Challenged someone to a fight in a convention</item>
+        <item>Been kicked out of a convention</item>
+        <item>Thought twins are evil</item>
+        <item>Cut or dyed my own hair to look like an Anime character</item>
+        <item>Said I was sick so I could stay at home reading</item>
+        <item>Thought about naming my children after fictional characters</item>
+        <item>Thought of disowning my children if they didn\’t turn out geeks</item>
+        <item>Wanted to have children just to have an excuse to buy toys</item>
+        <item>Broken up with someone because they didn\’t like comics</item>
+        <item>Wanted to have children only to dress them in cool costumes</item>
+        <item>Wanted to have a themed wedding</item>
+        <item>Made a list of waifus</item>
+        <item>Had a dakimakura</item>
+        <item>Thought about who would win in a superhero fight</item>
+        <item>Thought superheroes are hot</item>
+        <item>Wanted to go to the gym just to be able to wear a superhero cosplay</item>
+        <item>Cried because the game master killed my character</item>
+        <item>Thought fantasy is better than sci-fi</item>
+        <item>Thought sci-fi is better than fantasy</item>
+        <item>Cried because they didn\’t finish a show that I liked</item>
+        <item>Cried with the ending of a book</item>
+        <item>Cried with the ending of a video game</item>
+        <item>Cried \“Na ni?!\” out loud</item>
+        <item>Stayed up all night reading</item>
+        <item>Pretended to be a mermaid in the pool or beach</item>
+        <item>Practiced zombie noises</item>
+        <item>Corrected someone else\’s grammar</item>
+        <item>Made fun of someone for not knowing an obscure fact</item>
+        <item>Thought about my supervillain name</item>
+        <item>Thought how to get vengeance by using robots</item>
+        <item>Thought that PC gaming is superior to console gaming</item>
+        <item>Made fun of kids online</item>
+        <item>Tea-bagged someone in a video game</item>
+        <item>Known how to pronounce gif</item>
+        <item>Used my Elvish name in an inappropriate context</item>
+        <item>Asked people to call me by my Elvish name</item>
+        <item>Crashed a Lan Party</item>
+        <item>Flirted in a LARP</item>
+        <item>Solved a Rubik\’s cube</item>
+        <item>Bought so many collectibles that I had to find a new place for them</item>
+        <item>Written fanfiction</item>
+        <item>Drawn fan art</item>
+        <item>Been addicted to fanfiction</item>
+        <item>Played video games at work</item>
+        <item>Stayed up all night binge-watching a show</item>
+        <item>Rolled a dice to make a life decision</item>
+        <item>Stayed at the cinema after the credits in case there\’s an extra scene</item>
+        <item>Thought Math was cool</item>
+        <item>Worn braces</item>
+        <item>Worn suspenders</item>
+        <item>Looked up words in the dictionary for fun</item>
+        <item>Run like a unicorn</item>
+        <item>Wished magic was real</item>
+        <item>Pretended I could move things with my mind</item>
+        <item>Made up names for my fighting moves</item>
+        <item>Spent more money on books than clothes</item>
+        <item>Got mad at someone because they made a spoiler</item>
+        <item>Unfriended someone because they didn\’t return a book</item>
+        <item>Hid under the covers to read a book</item>
+        <item>Read fiction books during class</item>
+        <item>Lied about reading the book before watching the movie</item>
+        <item>Played Pen and Paper RPGs just to flirt with someone</item>
+        <item>Thought dwarves are better than elves</item>
+        <item>Thought about going to bed with a mermaid</item>
+        <item>Thought about going to bed with an elf</item>
+        <item>Thought about going to bed with a dwarf</item>
+        <item>Thought about going to bed with a vampire</item>
+        <item>Thought about going to bed with a werewolf</item>
+        <item>Thought about going to bed with a slime</item>
+        <item>Wanted to take sword lessons</item>
+        <item>Wished I had a spaceship</item>
+        <item>Thought about whom of my friends I would keep with me during a Zombie Apocalypse</item>
+        <item>Thought about whom of my friends I would take to a new planet</item>
+        <item>Thought a robot was sexy</item>
+        <item>Wished I could transfer my brain to a robotic body</item>
+        <item>Thought that it would be ok to copulate with aliens</item>
+        <item>Wished aliens were here already</item>
+        <item>Thought about leaving Earth to live in another planet</item>
+        <item>Wished to live among the fairies</item>
+        <item>Wanted to be transported to another world</item>
+        <item>Thought werewolves are better than vampires</item>
+        <item>Wished vampires were real</item>
+        <item>Made a list of things I would need in case of a zombie outbreak</item>
+        <item>Screamed in the cinema while watching a horror movie</item>
+        <item>Said I was sick so I didn\’t have to watch a scary movie</item>
+        <item>Dreamed I was the protagonist in an Anime</item>
+        <item>Read the manga because I couldn\’t wait for the Anime</item>
+        <item>Made a spoiler</item>
+        <item>Cheated in a game</item>
+        <item>Pretended I didn\’t know how to play a game to gain advantage</item>
+        <item>Got mad at a friend because they weren\’t good at a game</item>
+        <item>Broken up with someone because they didn\’t like video games</item>
+        <item>Broken up with someone because they didn\’t read books</item>
+        <item>Drank energy drinks while playing video games</item>
+        <item>Attempted to do something I saw in a video game</item>
+        <item>Raged-quit</item>
+        <item>Narrated my actions as if I was in a movie</item>
+        <item>Made special effect sounds with my mouth</item>
+        <item>Hit the TV because I could not win a boss fight in a video game</item>
+        <item>Pretended to have a wand</item>
+        <item>Had a spells fight</item>
+        <item>Wanted to join a sport because I got inspired by an Anime</item>
+        <item>Pretended to be a ninja</item>
+        <item>Posed like an Anime character</item>
+        <item>Wanted to learn Japanese to watch Anime without subs</item>
+        <item>Wanted to turn into a vampire</item>
+        <item>Wanted to turn into a mermaid</item>
+        <item>Liked a girl just because she played video games</item>
+        <item>Had a crush on a boy because he reminded me of a fictional character that I liked</item>
+        <item>Tried to kill a character in an RPG because I didn\’t like the player</item>
+        <item>Dreamed of winning a Nobel prize</item>
+        <item>Been the teachers\’ favourite</item>
+        <item>Pretended to be normal</item>
+        <item>Got drunk to fit in with the cool kids</item>
+        <item>Said geeks are lame</item>
+        <item>Betrayed a friend in a game</item>
+        <item>Corrected a teacher</item>
+        <item>Resolved Math problems for fun</item>
+        <item>Read the Encyclopaedia for fun</item>
+        <item>Been mad because my costume was not historically accurate</item>
+        <item>Had written down a detailed plan in case of a zombie outbreak</item>
+        <item>Thought whom of the people I know I would turn into a vampire</item>
+        <item>Pretended to have seen a movie to impress someone</item>
+        <item>Wanted to have a bionic eye</item>
+        <item>Researched if I could have a cyber augmentation done on myself</item>
+        <item>Wished to be invisible to spy on people</item>
+        <item>Wished I could stop time so I can have more sleep</item>
+        <item>Wished to have super powers so I could leave my job</item>
+        <item>Wished I could copy other people\’s bodies</item>
+        <item>Wished I could fly so I don\’t have to spend money on plane tickets</item>
+        <item>Wished teletransportation existed so I don\’t have to commute to work every day</item>
+        <item>Wished I had the power of eating anything I wanted without getting fat</item>
+        <item>Thought that if I had superpowers I would not save anyone</item>
+        <item>Thought that if I get superpowers I would only use them for my own benefit</item>
+        <item>Had a geeky tattoo</item>
+        <item>Had to explain my tattoo to someone</item>
+        <item>Said I lost points in Charisma after making a bad joke</item>
+    </string-array>
+
+    <string-array name="statmentsWithIP">
+        <item>Liked Star Wars more than Star Trek</item>
+        <item>Wished I got a letter from Hogwarts</item>
+        <item>Read Harry Potter</item>
+        <item>Said \“I choose you!\” to my girlfriend or boyfriend</item>
+        <item>Sung Disney songs in the shower</item>
+        <item>Pretended to like Star Wars</item>
+        <item>Said \“I\’m Batman!\”</item>
+        <item>Put my undies over my pants pretending to be Superman</item>
+        <item>Made Spiderman memes</item>
+        <item>Lied about not liking My Little Pony</item>
+        <item>Asked my girlfriend to dress up as Leia</item>
+        <item>Thought The Lord of the Rings books were boring</item>
+        <item>Thought Hermione should be the protagonist of the Harry Potter series</item>
+        <item>Thought Mary Jane was hot</item>
+        <item>Pretended to like DC more than Marvel</item>
+        <item>Tried to convince someone to dress up as Batman and Robin</item>
+        <item>Tried to convince someone to dress up as the Joker and Harley Quinn</item>
+        <item>Sang the Superman song while pretending to fly</item>
+        <item>Made lightsaber sounds</item>
+        <item>Used cutlery to look like Wolverine</item>
+        <item>Made Pokemon sounds</item>
+        <item>Said \“Your princess is in another castle\”</item>
+        <item>Said \“It\’s dangerous to go alone, take this!\”</item>
+        <item>Thought the Hobbit movies were better than The Lord of the Rings movies</item>
+        <item>Thought that GOT sucks</item>
+        <item>Sung \“Let It Go\” when I\’m alone</item>
+        <item>Cried with the movie \“Up!\”</item>
+        <item>Thought that PS is better than Xbox</item>
+        <item>Married someone in WOW</item>
+        <item>Danced to the Tetris song</item>
+        <item>Thought Luke is hotter than Han Solo</item>
+        <item>Abused the sentence \“I am your father\”</item>
+        <item>Thought the ending of Evangelion was bad</item>
+        <item>Thought Spoke was actually hot</item>
+        <item>Stared at a ring while whispering \“One Ring to rule them all, One Ring to find them, One Ring to bring them all, and in the darkness bind them\”</item>
+        <item>Used Linux</item>
+        <item>Hated Doctor Who</item>
+        <item>Danced to the Star Wars Cantina song</item>
+        <item>Known the difference between an AT-AT and a AT-ST</item>
+        <item>Known how many stargates are on Earth</item>
+        <item>Been able to speak Kinglon</item>
+        <item>Been able to speak Elvish</item>
+        <item>Said \“May the fourth be with you\” to a random stranger</item>
+        <item>Wished Cthulhu was here</item>
+        <item>Stolen a card of Magic: The Gathering</item>
+        <item>Thought Poe was better than Lovecraft</item>
+        <item>Spent hours reading Wikipedia for no reason</item>
+        <item>Said \“You shall not pass\” to a member of my family</item>
+        <item>Wished Firefly didn\’t have a movie</item>
+        <item>Imitated jawas</item>
+        <item>Thought Star Wars was overrated</item>
+        <item>Thought Aragorn was hot</item>
+        <item>Thought Thor was hot</item>
+        <item>Thought Daeneris was hot</item>
+        <item>Said \"It\'s leviOsa not levioSA\"</item>
+        <item>Attempted to use the spell \“Accio\” to pick up something</item>
+        <item>Attempted to use \“Alohomora\” to open something</item>
+        <item>Thought about what animal would my Expectro Patronum be</item>
+        <item>Shouted \“Lumos!\” when entering a dark room</item>
+        <item>Hated Tom Nook</item>
+        <item>Used Avada Kedavra with someone</item>
+        <item>Thought Luigi was better than Mario</item>
+        <item>Thought Princess Peach was hot</item>
+        <item>Pretended to grow bigger after eating a Mushroom</item>
+        <item>Thrown a Pokeball at someone</item>
+        <item>Sung the Pokemon song in the shower</item>
+        <item>Thought Digimon was better than Pokemon</item>
+        <item>Wished to be more like Cartman</item>
+        <item>Confused Link with Zelda</item>
+        <item>Whistled the Zelda main theme in public</item>
+        <item>Wished people stopped playing Fortnite</item>
+        <item>Made Pac-man sounds</item>
+        <item>Thought people who play LOL are mean</item>
+        <item>Sung Dragon Ball songs with my friends</item>
+        <item>Won a fight using a kamehameha</item>
+        <item>Said \“This is not the droid you\'re looking for\”</item>
+        <item>Had the song \“Toss a coin to your Witcher\” stuck in my head</item>
+        <item>Thought Minecraft is the best game ever</item>
+        <item>Despised people who don\’t play COD</item>
+        <item>Wondered why I spent so much time editing the face of my character in Skyrim</item>
+        <item>Thought Uncharted is better than Tomb Raider</item>
+        <item>Thought Batman should go to therapy</item>
+        <item>Imitated the Hulk</item>
+        <item>Pretended I could throw webs like Spiderman</item>
+        <item>Thought Aquaman was lame</item>
+        <item>Wanted to go to Narnia</item>
+        <item>Felt identified with the protagonist of The Neverending Story</item>
+        <item>Quoted Asimov\’s Laws of Robotics</item>
+        <item>Pretended to be a Titan like in \“Attack on Titan\” while naked</item>
+        <item>Felt sorry for the fans of One Piece</item>
+        <item>Run like they do in Naruto</item>
+        <item>Said \“In the name of the Moon, I\’ll punish you!\”</item>
+        <item>Thought the little mermaid was hot</item>
+        <item>Dressed as a Disney princess</item>
+        <item>Liked the Beast better than the Prince in The Beauty and the Beast</item>
+        <item>Pretended to have a magic pocket like Doraemon</item>
+        <item>Used tackle against someone like in Pokemon</item>
+        <item>Approached someone while singing The Imperial March</item>
+        <item>Had a Pikachu tattooed</item>
+        <item>Had a Magicarp tattooed</item>
+        <item>Had a Delorian tattooed</item>
+        <item>Talked like Chewbacca</item>
+        <item>Said \“Elementary, my dear Watson\”</item>
+        <item>Said \“I\’ll be back\” like the Terminator</item>
+        <item>Thought Terminator II is the best movie ever made</item>
+        <item>Taken something and whispered \“My precious!\”</item>
+        <item>Said \“Magic Mirror on the wall, who is the fairest one of all?\" in front of the mirror</item>
+        <item>Answered \“42\” to a question</item>
+    </string-array>
+</resources>

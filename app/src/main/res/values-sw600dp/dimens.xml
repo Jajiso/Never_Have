@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="StatmentsTextSize">28sp</dimen>
+    <dimen name="ButtonTextSize">24sp</dimen>
+    <dimen name="DialogTitleTextSize">26sp</dimen>
+    <dimen name="DialogDescriptionTextSize">20sp</dimen>
+    <dimen name="DialogButtonOkTextSize">15sp</dimen>
+    <dimen name="DialogButtonNoTextSize">13sp</dimen>
+</resources>

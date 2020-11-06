@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorButtonDefault">#f87d46</color>
+    <color name="colorButtonPressed">#F35A23</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBackground">#4FCAF9</color>
+    <color name="ic_launcher_background">#4FCBF9</color>
+    <color name="colorButtonDialogCancel">#A5A8A4</color>
+</resources>

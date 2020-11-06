@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yo Nunca</string>
+    <string name="id_Ads">ca-app-pub-1406885238384956/4186712047</string>
+    <string name="button_start">Jugar</string>
+    <string name="button_next">Siguiente</string>
+    <string name="dialog_title">Dinos lo que piensas</string>
+    <string name="dialog_message">Otros usuarios encontrarán tu opinión en la tienda útil</string>
+    <string name="dialog_button_no"><u>No volver a preguntar</u></string>
+    <string name="dialog_button_ok">Sí, claro</string>
+    <string name="ImageDescriptionGlass">Gafas</string>
+    <string name="ImageDescriptionBackground">Fondo</string>
+</resources>

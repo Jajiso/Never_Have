@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="statments">
+        <item>Me he enamorado de un personaje de ficción</item>
+        <item>Quise empezar a hacer ejercicio porque vi una serie Anime sobre chicas lindas haciendo ejercicio</item>
+        <item>Pensé que la mejor estrategia durante un apocalipsis zombi es atrincherarme en mi casa</item>
+        <item>He llorado en el cine</item>
+        <item>He llorado en una convención</item>
+        <item>He llorado porque ya no me cabe un disfraz</item>
+        <item>Me enfadé porque alguien llevaba el mismo cosplay que yo</item>
+        <item>Quise poder llevar disfraces en mi vida diaria en lugar de ropa normal</item>
+        <item>Preferí quedarme en casa jugando videojuegos en vez de salir con amigos</item>
+        <item>Me emborraché en una convención</item>
+        <item>He montado una escena en una convención</item>
+        <item>He montado una escena en una librería</item>
+        <item>He robado un cómic</item>
+        <item>He actuado en una convención</item>
+        <item>Pensé que los que ven Anime son unos pervertidos</item>
+        <item>Me enfadé porque perdí en un juego de mesa</item>
+        <item>Le dejé de hablar a alguien porque no les gustaba un programa o una película</item>
+        <item>Dibujé una versión de mí mismo como superhéroe</item>
+        <item>He pensado que los dibujos para niños son mejores que las series para adultos</item>
+        <item>Me he vestido de un personaje del sexo opuesto</item>
+        <item>Canté en japonés</item>
+        <item>Canté canciones de videojuegos en una fiesta</item>
+        <item>He deseado secretamente ser un mago</item>
+        <item>Tuve pesadillas con zombis</item>
+        <item>Tuve miedo de los payasos</item>
+        <item>Pensé que un dibujo animado es sexy</item>
+        <item>He simulado como que estaba huyendo de zombis mientras corría</item>
+        <item>He pensado sobre qué tipo de superpoder tendría</item>
+        <item>He pensado que una película es mejor que el libro</item>
+        <item>Canté una canción en japonés sin tener ni idea de lo que dice la letra</item>
+        <item>He hecho como que sé artes marciales cuando estoy solo</item>
+        <item>Me he hecho popó en los pantalones sin querer en una convención</item>
+        <item>Me he comprado un juguete para niños</item>
+        <item>Gasté demasiado dinero en coleccionables</item>
+        <item>Practiqué frases de una película en el espejo</item>
+        <item>Intenté impresionar a alguien que me gustaba con mi conocimiento de Anime</item>
+        <item>He llevado ropa interior de dibujitos</item>
+        <item>He llevado ropa interior de superhéroes</item>
+        <item>He visto Hentai</item>
+        <item>Intenté convencer a alguien de que la razón por la que veo un Hentai es porque tiene un argumento muy interesante</item>
+        <item>Intenté hacer una receta de una comida que vi en una serie o película</item>
+        <item>He sido arrestado en una convención</item>
+        <item>He usado una identificación falsa para entrar en una convención</item>
+        <item>Me he escabullido de casa para ir a una convención</item>
+        <item>Intenté explicarle mi cosplay a mi familia</item>
+        <item>Sentí vergüenza de ser un nerd</item>
+        <item>Abandoné a mis hijos para ir a una convención</item>
+        <item>Entré en una convención sin pagar</item>
+        <item>Compré merchandise por internet estando borracho</item>
+        <item>Tuve una cita con alguien que conocí en un videojuego</item>
+        <item>Me metí mano con alguien en una convención</item>
+        <item>Me besé con alguien solo porque me gustaba su cosplay</item>
+        <item>Le pedí a mi pareja que se disfrazara de un personaje de una película o serie</item>
+        <item>Intenté ligar con una frase sacada de una película</item>
+        <item>Tuve sueños eróticos con un personaje de ficción</item>
+        <item>Fingí que me gustaban las películas de miedo</item>
+        <item>Me tomé fotos sexy en mi cosplay</item>
+        <item>Reté a alguien a una pelea en una convención</item>
+        <item>He sido expulsado de una convención</item>
+        <item>He pensado que los hermanos gemelos son malignos</item>
+        <item>Me cambié el pelo para parecerme a un personaje de Anime</item>
+        <item>Dije que estaba enfermo para quedarme en casa leyendo</item>
+        <item>He pensado que le pondría el nombre de un personaje de ficción a mis hijos</item>
+        <item>Pensé en desheredar a mis hijos si no se vuelven nerds como yo</item>
+        <item>Quise tener hijos solo como excusa para comprar juguetes</item>
+        <item>Rompí con alguien porque no le gustaban los cómics</item>
+        <item>Quise tener hijos solo para ponerles disfraces</item>
+        <item>Quise una boda temática</item>
+        <item>Hice una lista de waifus</item>
+        <item>Tuve un dakimakura</item>
+        <item>Me puse a pensar quién ganaría en una pelea de superhéroes</item>
+        <item>Pensé que los superhéroes son sexy</item>
+        <item>Quise ponerme musculoso para poder ponerme un cosplay de superhéroe</item>
+        <item>Lloré porque el game master mató a mi personaje</item>
+        <item>Pensé que la fantasía es mejor que la ciencia ficción</item>
+        <item>Pensé que la ciencia ficción es mejor que la fantasía</item>
+        <item>Lloré porque no terminaron un programa que me gustaba</item>
+        <item>Lloré con el final de un libro</item>
+        <item>Lloré con el final de un videojuego</item>
+        <item>Grité \“¡¿Na ni?!\”</item>
+        <item>Me he quedado despierto toda la noche leyendo</item>
+        <item>He jugado a ser una sirena en la playa o la piscina</item>
+        <item>He practicado ruidos de zombi</item>
+        <item>Corregí la ortografía de alguien</item>
+        <item>Me burlé de alguien por no saber algo</item>
+        <item>He pensado en mi nombre de supervillano</item>
+        <item>He pensado en vengarme utilizando robots</item>
+        <item>Pensé que jugar en PC es superior a jugar en otras plataformas</item>
+        <item>Me divertí a costa de niños por internet</item>
+        <item>Le he hecho tea-bag a alguien en un videojuego</item>
+        <item>Supe cómo pronunciar gif</item>
+        <item>Usé mi nombre élfico en un contexto poco apropiado</item>
+        <item>Le he pedido a la gente que me llamen por mi nombre élfico</item>
+        <item>Fastidié una Lan Party</item>
+        <item>He coqueteado con alguien en un rol en vivo</item>
+        <item>Resolví el cubo de Rubik</item>
+        <item>Compré tantos coleccionables que tuve que encontrarles una habitación nueva</item>
+        <item>Escribí fanfiction</item>
+        <item>Dibujé fan art</item>
+        <item>Estuve adicto al fanfiction</item>
+        <item>Jugué videojuegos en vez de trabajar</item>
+        <item>Me quedé despierto toda la noche viendo una serie</item>
+        <item>Tiré un dado para decidir algo importante</item>
+        <item>Me quedé en la sala del cine después de los créditos por si había una escena extra</item>
+        <item>Pensé que las Matemáticas son geniales</item>
+        <item>Llevé ortodoncia</item>
+        <item>Me puse tirantes</item>
+        <item>He mirado palabras en el diccionario por diversión</item>
+        <item>He corrido como un unicornio</item>
+        <item>Deseé que la magia fuera real</item>
+        <item>Hice como que podía mover cosas con la mente</item>
+        <item>Le he puesto nombre a mis movimientos de pelea</item>
+        <item>He gastado más dinero en libros que en ropa</item>
+        <item>Me enfadé con alguien porque hicieron un spoiler</item>
+        <item>Dejé de ser amigo de alguien porque no me devolvieron mi libro</item>
+        <item>Me escondí bajo las sábanas para leer</item>
+        <item>Leí libros de ficción mientras estaba en clase en lugar de prestar atención</item>
+        <item>Mentí sobre haber leído el libro antes de ver la película</item>
+        <item>Jugué a juegos de rol solo porque me interesaba coquetear con alguien</item>
+        <item>Pensé que los enanos son mejores que los elfos</item>
+        <item>He pensado en acostarme con una sirena</item>
+        <item>He pensado en acostarme con un elfo</item>
+        <item>He pensado en acostarme con un enano</item>
+        <item>He pensado en acostarme con un vampiro</item>
+        <item>He pensado en acostarme con un hombre lobo</item>
+        <item>He pensado en acostarme con un slime</item>
+        <item>Quise tomar lecciones de esgrima</item>
+        <item>Deseé tener una nave espacial</item>
+        <item>Pensé con cuáles de mis amigos me quedaría en un apocalipsis zombi</item>
+        <item>Pensé quiénes de mis amigos me llevaría a un nuevo planeta</item>
+        <item>Pensé que un robot era sexy</item>
+        <item>Deseé poder transferir mi cerebro a un cuerpo robótico</item>
+        <item>Pensé que sería aceptable copular con alienígenas</item>
+        <item>Deseé que entremos en contacto con aliens</item>
+        <item>He pensado en dejar la Tierra para vivir en otro planeta</item>
+        <item>He deseado vivir entre las hadas</item>
+        <item>He querido ser transportado a otro mundo</item>
+        <item>Pensé que los hombres lobos son mejores que los vampiros</item>
+        <item>Deseé que los vampiros fueran de verdad</item>
+        <item>Hice una lista de cosas que necesitaría en caso de apocalipsis zombi</item>
+        <item>He gritado en el cine durante una peli de miedo</item>
+        <item>Dije que estaba enfermo para no tener que ir a ver una película de miedo</item>
+        <item>Soñé que era el protagonista de un Anime</item>
+        <item>Me leí el manga porque no podía esperar por el Anime</item>
+        <item>He hecho un spoiler</item>
+        <item>Hice trampas en un juego</item>
+        <item>Fingí que no sabía jugar a un juego para obtener ventaja</item>
+        <item>Me enfadé con un amigo porque no jugaban bien a algo</item>
+        <item>Rompí con alguien porque no le gustaban los videojuegos</item>
+        <item>Rompí con alguien porque no leía libros</item>
+        <item>He tomado bebidas energéticas mientras jugaba videojuegos</item>
+        <item>Intenté hacer algo que vi en un videojuego</item>
+        <item>He hecho rage-quit</item>
+        <item>Narré mis acciones en tercera persona</item>
+        <item>Hice efectos especiales con la boca</item>
+        <item>Golpeé la tele porque no podía ganar en un videojuego</item>
+        <item>Fingí tener una varita</item>
+        <item>Tuve una pelea de hechizos</item>
+        <item>Quise apuntarme a un deporte porque un Anime me inspiró a hacerlo</item>
+        <item>He jugado a ser un ninja</item>
+        <item>He posado como un personaje de Anime</item>
+        <item>He querido aprender japonés para ver Anime sin subtítulos</item>
+        <item>He querido convertirme en un vampiro</item>
+        <item>He querido convertirme en una sirena</item>
+        <item>Me ha gustado alguien solo porque jugaba a videojuegos</item>
+        <item>Me empezó a gustar alguien solo porque me recordaba a uno de mis personajes de ficción favoritos</item>
+        <item>Intenté matar a un personaje en un juego de rol solo porque me caía mal el jugador</item>
+        <item>Soñé con ganar un premio Nobel</item>
+        <item>He sido el favorito de los profesores</item>
+        <item>Fingí ser normal</item>
+        <item>Me emborraché para llevarme bien con el grupo de los cool</item>
+        <item>He dicho que los nerds dan pena</item>
+        <item>Traicioné a un amigo en un juego</item>
+        <item>Corregí a un profesor</item>
+        <item>He resuelto problemas de Matemáticas por diversión</item>
+        <item>Leí la enciclopedia por diversión</item>
+        <item>Me enfadé porque mi atuendo no era históricamente correcto</item>
+        <item>Escribí un plan detallado en caso de apocalipsis zombi</item>
+        <item>He pensado a quiénes de mis conocidos convertiría en vampiros</item>
+        <item>Mentí sobre haber visto una película para impresionar a alguien</item>
+        <item>He querido tener un ojo biónico</item>
+        <item>He investigado si podría hacerme algún tipo de operación para tener partes cibernéticas</item>
+        <item>Deseé ser invisible para espiar a la gente</item>
+        <item>Deseé poder parar el tiempo para dormir más</item>
+        <item>Deseé tener superpoderes para poder dejar mi trabajo</item>
+        <item>Deseé ser capaz de copiar el cuerpo de otras personas</item>
+        <item>Deseé poder volar para no tener que gastar el dinero en billetes de avión</item>
+        <item>Deseé que existiera el teletransporte para no tener que ir al trabajo en auto o transporte público</item>
+        <item>Deseé tener el poder de comer todo lo que quisiera sin engordar</item>
+        <item>Pensé que si yo tuviera superpoderes no salvaría a nadie</item>
+        <item>Pensé que si yo tuviera superpoderes solo los usaría para mi propio beneficio</item>
+        <item>Tuve un tatuaje nerd</item>
+        <item>Tuve que explicarle a alguien mi tatuaje</item>
+        <item>Dije que perdí puntos en Carisma después de haber hecho un chiste malo</item>
+    </string-array>
+
+    <string-array name="statmentsWithIP">
+        <item>Preferí Star Wars a Star Trek</item>
+        <item>Deseé haber recibido una carta de Hogwarts</item>
+        <item>Leí Harry Potter</item>
+        <item>Dije \“¡Te elijo a ti!\” a mi novio/a</item>
+        <item>Canté canciones de Disney en la ducha</item>
+        <item>Fingí que me gustaba Star Wars</item>
+        <item>Dije \“¡Soy Batman!\”</item>
+        <item>Me puse la ropa interior por encima de los pantalones para imitar a Superman</item>
+        <item>He usado memes de Spiderman</item>
+        <item>Mentí al decir que no me gustaba \“Mi pequeño pony\”</item>
+        <item>Le pedí a mi novia que se disfrazara de Leia</item>
+        <item>Pensé que los libros de \“El señor de los anillos\” eran aburridos</item>
+        <item>Pensé que Hermione debería ser la protagonista de los libros de Harry Potter</item>
+        <item>Pensé que Mary Jane era sexy</item>
+        <item>Fingí que me gustaba más DC que Marvel</item>
+        <item>Intenté convencer a alguien para ir disfrazados de Batman y Robin</item>
+        <item>Intenté convencer a alguien para ir disfrazados del Joker y Harley Quinn</item>
+        <item>Canté la canción de Superman mientras hacía como que volaba</item>
+        <item>He imitado los sonidos que hace el sable de luz</item>
+        <item>He usado cubiertos para parecerme a Wolverine de los X-Men</item>
+        <item>He hecho sonidos de Pokemon</item>
+        <item>He dicho \“Tu princesa está en otro castillo\”</item>
+        <item>He dicho \“Es peligroso andar solo, toma esto\”</item>
+        <item>Pensé que las películas de \“El Hobbit\” eran mejores que las de \“El Señor de los Anillos\”</item>
+        <item>Pensé que Juego de tronos era una mala serie</item>
+        <item>Canté \“Let It Go\” de Frozen</item>
+        <item>Lloré con la película \“Up!\” de Pixar</item>
+        <item>Pensé que Play es mejor que Xbox</item>
+        <item>Me casé en el WOW</item>
+        <item>Bailé la canción del Tetris</item>
+        <item>Pensé que Luke es más sexy que Han Solo</item>
+        <item>Abusé de la frase \“Yo soy tu padre\”</item>
+        <item>Pensé que el final de Evangelion era malo</item>
+        <item>Pensé que en realidad Spoke es supersexy</item>
+        <item>He mirado fijamente un anillo mientras murmuraba \“Un anillo para gobernarlos a todos, un anillo para encontrarlos, un anillo para atraerlos a todos y atarlos en las tinieblas\”</item>
+        <item>Usé Linux</item>
+        <item>Odié Doctor Who</item>
+        <item>Bailé al ritmo de la canción de la cantina de Star Wars</item>
+        <item>Supe la diferencia entre un AT-AT y un AT-ST</item>
+        <item>Supe cuántas stargates hay en la Tierra</item>
+        <item>Pude hablar Kinglon</item>
+        <item>Pude hablar élfico</item>
+        <item>Le he dicho \“Que la fuerza sea contigo\” a un desconocido</item>
+        <item>Deseé que viniera Cthulhu</item>
+        <item>Robé una carta de Magic: The Gathering</item>
+        <item>Pensé que Poe era mejor que Lovecraft</item>
+        <item>He pasado horas leyendo la Wikipedia sin ningún motivo</item>
+        <item>Le he dicho \“¡No puedes pasar!\” como Gandalf a un miembro de mi familia</item>
+        <item>He deseado que Firefly no tuviera una película</item>
+        <item>Imité a los jawas</item>
+        <item>Pensé que Star Wars está sobrevalorado</item>
+        <item>Pensé que Aragorn era sexy</item>
+        <item>Pensé que Thor era sexy</item>
+        <item>Pensé que Daeneris era sexy</item>
+        <item>He dicho \“Se dice Leviosa, no Leviosá\”</item>
+        <item>Intenté usar el hechizo \“Accio\” para recoger algo del suelo</item>
+        <item>Intenté usar \“Alohomora\” para abrir algo</item>
+        <item>Me he preguntado qué animal sería mi Expectro Patronum</item>
+        <item>Grité \“¡Lumos!\” al entrar en una habitación oscura</item>
+        <item>Odié a Tom Nook</item>
+        <item>Usé Avada Kedavra con alguien</item>
+        <item>Pensé que Luigi era mejor que Mario</item>
+        <item>Pensé que la princesa Peach era sexy</item>
+        <item>Hice como que crecía después de comerme una seta</item>
+        <item>Le he tirado a alguien una Pokeball</item>
+        <item>Canté la canción de Pokemon en la ducha</item>
+        <item>Pensé que Digimon era mejor que Pokemon</item>
+        <item>He deseado ser más como Cartman</item>
+        <item>He confundido a Link con Zelda</item>
+        <item>He silbado el tema principal de Zelda en público</item>
+        <item>Deseé que la gente dejara de jugar a Fortnite</item>
+        <item>Imité los sonidos de Pac-man</item>
+        <item>Pensé que la gente que juega al LOL es mala</item>
+        <item>Canté canciones de Dragon Ball con mis amigos</item>
+        <item>Gané una pelea usando un kamehameha</item>
+        <item>Dije \“Este no es el droide que estás buscando\”</item>
+        <item>Se me pegó la canción \“Toss a coin to your Witcher\”</item>
+        <item>Pensé que Minecraft es el mejor juego jamás creado</item>
+        <item>Desprecié a la gente que no juega al Call of Duty</item>
+        <item>Me he preguntado por qué pasé tanto tiempo editando la cara de mi personaje en Skyrim</item>
+        <item>He pensado que Uncharted es mejor que Tomb Raider</item>
+        <item>He pensado que Batman debería ir al psicoterapeuta</item>
+        <item>Imité a Hulk</item>
+        <item>He hecho como que puedo lanzar telarañas igual que Spiderman</item>
+        <item>Pensé que Aquaman era una porquería</item>
+        <item>Quise ir a Narnia</item>
+        <item>Me sentí identificado con el protagonista de \“Una historia interminable\”</item>
+        <item>He citado las leyes de la robótica de Asimov</item>
+        <item>He hecho como que soy un titán como en “Attack on Titans” cuando estoy desnudo</item>
+        <item>He sentido lástima por los fans de One Piece</item>
+        <item>Corrí como Naruto</item>
+        <item>Dije \“¡Y en el nombre de Luna, te castigaré!\”</item>
+        <item>Pensé que la Sirenita era sexy</item>
+        <item>Me disfracé de princesa Disney</item>
+        <item>Me gustó más la Bestia que el príncipe en \“La bella y la bestia\”</item>
+        <item>Jugué a tener un bolsillo mágico como en Doraemon</item>
+        <item>Usé placaje contra alguien como en Pokemon</item>
+        <item>Me acerqué a alguien mientras cantaba la marcha imperial de Star Wars</item>
+        <item>Me tatué un Pikachu</item>
+        <item>Me tatué un Magicarp</item>
+        <item>Me tatué un Delorian</item>
+        <item>Hablé como Chewbacca</item>
+        <item>Dije \“Elemental, mi querido Watson\"</item>
+        <item>Dije \“Volveré\” como en Terminator</item>
+        <item>Pensé que Terminator 2 es la mejor película jamás hecha</item>
+        <item>He tomado algo entre mis manos y susurrado \“¡Mi tesoro!\”</item>
+        <item>He dicho \“Espejito, espejito, ¿quién es la más hermosa del Reino?\” enfrente del espejo</item>
+        <item>Respondí \“42\” a una pregunta</item>
+    </string-array>
+</resources>
