@@ -1,4 +1,4 @@
-package com.campfiregames.neverhave;
+package com.androidgames.neverhave;
 
 import androidx.appcompat.app.AppCompatActivity;
 

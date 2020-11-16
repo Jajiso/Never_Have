@@ -1,10 +1,10 @@
-package com.campfiregames.neverhave;
+package com.androidgames.neverhave;
 
 import android.content.Context;
 import android.content.Intent;
 
-import static com.campfiregames.neverhave.UriHelper.getGooglePlay;
-import static com.campfiregames.neverhave.UriHelper.isPackageExists;
+import static com.androidgames.neverhave.UriHelper.getGooglePlay;
+import static com.androidgames.neverhave.UriHelper.isPackageExists;
 
 final class IntentHelper {
 

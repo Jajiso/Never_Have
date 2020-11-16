@@ -1,4 +1,4 @@
-package com.campfiregames.neverhave;
+package com.androidgames.neverhave;
 
 import android.app.Activity;
 import android.content.Context;
@@ -6,13 +6,13 @@ import android.view.View;
 
 import java.util.Date;
 
-import static com.campfiregames.neverhave.PreferenceHelper.getAppLaunchedTimes;
-import static com.campfiregames.neverhave.PreferenceHelper.getInstallDate;
-import static com.campfiregames.neverhave.PreferenceHelper.getIsAgreeShowDialog;
-import static com.campfiregames.neverhave.PreferenceHelper.getLaunchTimes;
-import static com.campfiregames.neverhave.PreferenceHelper.getRemindInterval;
-import static com.campfiregames.neverhave.PreferenceHelper.isFirstLaunch;
-import static com.campfiregames.neverhave.PreferenceHelper.setInstallDate;
+import static com.androidgames.neverhave.PreferenceHelper.getAppLaunchedTimes;
+import static com.androidgames.neverhave.PreferenceHelper.getInstallDate;
+import static com.androidgames.neverhave.PreferenceHelper.getIsAgreeShowDialog;
+import static com.androidgames.neverhave.PreferenceHelper.getLaunchTimes;
+import static com.androidgames.neverhave.PreferenceHelper.getRemindInterval;
+import static com.androidgames.neverhave.PreferenceHelper.isFirstLaunch;
+import static com.androidgames.neverhave.PreferenceHelper.setInstallDate;
 
 public final class AppRate {
 

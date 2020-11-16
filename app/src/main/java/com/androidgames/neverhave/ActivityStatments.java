@@ -1,4 +1,4 @@
-package com.campfiregames.neverhave;
+package com.androidgames.neverhave;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -18,8 +18,8 @@ import com.google.android.gms.ads.initialization.OnInitializationCompleteListene
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.AdRequest;
 
-import static com.campfiregames.neverhave.PreferenceHelper.getIsAgreeShowDialog;
-import static com.campfiregames.neverhave.PreferenceHelper.setAppLaunchedTimes;
+import static com.androidgames.neverhave.PreferenceHelper.getIsAgreeShowDialog;
+import static com.androidgames.neverhave.PreferenceHelper.setAppLaunchedTimes;
 
 
 public class ActivityStatments extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package com.campfiregames.neverhave;
+package com.androidgames.neverhave;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -8,10 +8,10 @@ import android.content.Intent;
 import android.view.View;
 import android.widget.Button;
 
-import static com.campfiregames.neverhave.IntentHelper.createIntentForGooglePlay;
-import static com.campfiregames.neverhave.PreferenceHelper.getIsAgreeShowDialog;
-import static com.campfiregames.neverhave.PreferenceHelper.setAgreeShowDialog;
-import static com.campfiregames.neverhave.PreferenceHelper.setAppLaunchedTimes;
+import static com.androidgames.neverhave.IntentHelper.createIntentForGooglePlay;
+import static com.androidgames.neverhave.PreferenceHelper.getIsAgreeShowDialog;
+import static com.androidgames.neverhave.PreferenceHelper.setAgreeShowDialog;
+import static com.androidgames.neverhave.PreferenceHelper.setAppLaunchedTimes;
 
 final class DialogManager {
 
